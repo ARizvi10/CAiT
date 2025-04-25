@@ -3,8 +3,8 @@ CAiT is my Cat AI Chatbot based off my own real life cat, Cleo. This script util
 Chatbot Overview
 
 CAiT is more than just a chatbot — it’s my attempt to bring the sass, curiosity, and personality of Cleo to life through AI.
-Built with DialoGPT-Large, A GPT model from HuggingFace.co, this chatbot is primed with a custom prompt written from my experience of living with my cat, simulating what I feel her responses
-would be if she could speak human.
+Built with DialoGPT-Large, A GPT model from HuggingFace.co, this chatbot is primed with a custom prompt written from my experience of living with my cat, simulating how I imagine she would respond
+if she could speak like a human.
 
 Why DialoGPT? I chose it for its Token-Level Conversation History, which helps maintain conversational context and allows for more coherent back-and-forth exchanges — just like chatting with a cheeky feline.
 
