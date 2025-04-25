@@ -1,0 +1,1 @@
+CAiT is my Cat AI Chatbot based off my own real life cat, Cleo. This script utilizes the DialoGPT Large model primed with a custom prompt to provide more meaningful responses. I used DialoGPT for it's support for Token-Level Conversation History.
